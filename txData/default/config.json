@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "general": {
+    "serverName": "GenevaRP"
+  },
+  "server": {
+    "dataPath": "D:/GenevaRP/txData/FiveMBasicServerCFXDefault_2CA6B6.base/"
+  }
+}
