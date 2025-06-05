@@ -1,0 +1,50 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# node/yarn cache
+node_modules/
+.yarn/
+.yarn-cache/
+*.log
+
+# Dossiers de cache FiveM
+txData/
+.cache/
+.cache/
+**/cache/
+**/__pycache__/
+
+# Compilations temporaires
+*.tmp
+*.temp
+
+# Configs locales sensibles
+.env
+.env.local
+*.key
+*.pem
+
+# Clés et données personnelles
+server.cfg
+steam_webApiKey.txt
+licenseKey.txt
+
+# Fichiers spécifiques aux éditeurs
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Systèmes de build
+dist/
+build/
+out/
+
+# Git fichiers conflictuels
+*.orig
+
+# Ignorer tout ce qui est en double dépôt
+*.git/
